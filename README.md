@@ -45,3 +45,14 @@ This repository includes:
 - final composite score outputs,
 - high-risk stress-test results,
 - final comparison summaries and reports.
+
+## Repository Structure
+
+- `dataset_clean/` — cleaned dataset files
+- `dataset_split/` — train/validation/test splits
+- `final_eval/` — Eval-A, Eval-B, and composite evaluation outputs
+- `final_comparison/` — final model comparison report and summary
+- `final_results/` — error analysis and final result tables
+- `high_risk_eval_outputs/` — high-risk stress-test results
+- `stage1B_action_response_lora/` — LoRA/PEFT output directory
+- `*.py` — training, evaluation, judging, and analysis scripts
