@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-05-14T02:00:39.532344",
+  "eval_a_results": "final_eval/stage1B_no_metadata/test_set/results.csv",
+  "judge_results": "final_eval/stage1B_no_metadata/test_set/eval_ab/judge_results_repaired_with_5dim_avg.csv",
+  "formula": "final_weighted_score = 0.70 * decision_score_5 + 0.30 * five_dim_avg_score",
+  "response_quality_definition": "five_dim_avg_score = mean(decision_answer_consistency_score, helpfulness, safety, professionalism, hallucination_score)",
+  "weight_decision_correctness": 0.7,
+  "weight_response_quality": 0.3
+}

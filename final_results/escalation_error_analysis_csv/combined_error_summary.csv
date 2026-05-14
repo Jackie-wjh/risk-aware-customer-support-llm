@@ -1,0 +1,9 @@
+﻿dataset,error_type,gold,pred,count,total_rows,rate_over_total
+full_test,escalate_to_answer,Escalate,Answer,24,4057,0.005915701257086517
+full_test,answer_to_escalate,Answer,Escalate,25,4057,0.006162188809465122
+full_test,escalate_to_askback,Escalate,Ask Back,17,4057,0.004190288390436283
+full_test,askback_to_escalate,Ask Back,Escalate,92,4057,0.022676854818831648
+high_risk_only,escalate_to_answer,Escalate,Answer,23,1402,0.016405135520684736
+high_risk_only,answer_to_escalate,Answer,Escalate,24,1402,0.017118402282453638
+high_risk_only,escalate_to_askback,Escalate,Ask Back,17,1402,0.012125534950071327
+high_risk_only,askback_to_escalate,Ask Back,Escalate,91,1402,0.06490727532097004

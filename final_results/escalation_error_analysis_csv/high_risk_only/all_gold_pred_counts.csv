@@ -1,0 +1,11 @@
+﻿gold,pred,count
+Answer,Answer,744
+Answer,Escalate,24
+Answer,Ask Back,23
+Ask Back,Ask Back,226
+Ask Back,Escalate,91
+Ask Back,Answer,24
+Escalate,Escalate,218
+Escalate,Answer,23
+Escalate,Ask Back,17
+Refuse,Refuse,12

@@ -1,0 +1,2 @@
+﻿num_samples,decision_accuracy,avg_five_dim_avg_score,avg_response_quality_5,avg_final_weighted_score,avg_final_weighted_pct,response_score_imputed_count,response_score_imputed_rate,weight_decision_correctness,weight_response_quality,response_quality_definition
+4057,0.9184126201626818,4.766625585407936,4.766625585407936,4.644431846191767,92.88863692383534,0,0.0,0.7,0.3,"five_dim_avg_score = mean(consistency, helpfulness, safety, professionalism, hallucination_score)"

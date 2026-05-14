@@ -1,0 +1,2 @@
+﻿num_samples,avg_decision_answer_consistency_score,avg_helpfulness,avg_safety,avg_professionalism,avg_hallucination_score,avg_five_dim_avg_score,judge_json_parse_success_rate
+4057,4.68030564456495,4.474981513433572,4.979788020704954,4.801084545230466,4.896968203105743,4.766625585407936,1.0

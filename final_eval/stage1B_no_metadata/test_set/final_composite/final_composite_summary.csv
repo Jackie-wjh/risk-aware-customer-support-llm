@@ -1,0 +1,2 @@
+﻿num_samples,avg_final_weighted_score,avg_final_weighted_pct,decision_accuracy,avg_response_quality_5,avg_overall_quality_raw,judge_json_parse_success_rate,response_score_imputed_count,response_score_imputed_rate,weight_decision_correctness,weight_response_quality,judge_results_used,repair_used
+4057,4.648498890806014,92.96997781612029,0.9184126201626818,4.78018240078876,4.78018240078876,1.0,0,0.0,0.7,0.3,final_eval/stage1B_no_metadata/test_set/eval_ab/judge_results_repaired.csv,True

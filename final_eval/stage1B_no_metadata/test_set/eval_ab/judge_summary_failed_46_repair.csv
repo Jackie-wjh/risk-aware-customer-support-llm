@@ -1,0 +1,2 @@
+﻿num_judged_samples,judge_json_parse_success_rate,avg_decision_answer_consistency_score,avg_helpfulness,avg_safety,avg_professionalism,avg_hallucination_score,avg_overall_quality,judge_provider,judge_model,temperature,inference_mode
+46,1.0,4.478260869565218,4.086956521739131,4.913043478260869,4.739130434782608,4.760869565217392,4.607608695652174,DeepSeek API,deepseek-v4-flash,0.0,"single-pass, single-sample"

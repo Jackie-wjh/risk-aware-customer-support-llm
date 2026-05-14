@@ -1,0 +1,6 @@
+﻿risk_bucket,category,intent,count
+complaint,FEEDBACK,complaint,7
+payment_refund,REFUND,track_refund,5
+human_agent,CONTACT,contact_human_agent,3
+account_security,ACCOUNT,delete_account,1
+payment_refund,REFUND,get_refund,1

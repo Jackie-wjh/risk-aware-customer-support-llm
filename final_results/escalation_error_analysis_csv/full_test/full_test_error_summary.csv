@@ -1,0 +1,5 @@
+﻿error_type,gold,pred,count,total_rows,rate_over_total
+escalate_to_answer,Escalate,Answer,24,4057,0.005915701257086517
+answer_to_escalate,Answer,Escalate,25,4057,0.006162188809465122
+escalate_to_askback,Escalate,Ask Back,17,4057,0.004190288390436283
+askback_to_escalate,Ask Back,Escalate,92,4057,0.022676854818831648
